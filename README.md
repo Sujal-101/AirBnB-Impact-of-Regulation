@@ -12,19 +12,18 @@ The dataset includes the following files:
 Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
 - reviews.csv
 Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 ## Insights :
-1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
-2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
-3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
-4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
-
+1. Initially, both the number of AirBnBs and their prices increased due to early traction and interest from early adopters.
+2. As AirBnB became widely known and commonly used, the number of listings continued to grow, but prices started to decline.
+3. Around 2015, following the announcement of regulations, uncertainty grew in the market. This led to a decrease in the number of AirBnBs and a rise in prices.
+4. By 2019, once the regulations became the norm, the number of AirBnB listings increased again, resulting in prices decreasing due to higher supply.
+   
 ## Recommendation :
-1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
-2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
-3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
-4. It is recommended to watch out for any such regulations at other places and be prepared for it.
-5. AirBnB can replicate such regulations at other places.
-6. They can keep strict rules to onboard and release the hosts.
-7. They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+1. Regulations on long-term rentals can negatively affect the business by causing both customer and host churn due to increased uncertainty.
+2. Such regulations may lead to financial losses for AirBnB, which could be difficult to recover from in the future.
+3. If customer experience is impacted, it may result in a negative brand perception.
+4. It is advisable to monitor similar regulations in other regions and prepare accordingly.
+5. AirBnB can anticipate and adapt to these regulations as they arise in different locations.
+6.Implementing strict rules for onboarding and removing hosts can help maintain quality control.
+7. Limiting the number of AirBnBs in a specific area could ensure enough rental options for the public and potentially prevent government intervention.
